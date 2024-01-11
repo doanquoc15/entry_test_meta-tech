@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  overflow-x: hidden;
+}
+
+
+main{
+    padding: 0;
+}
+
+.slick-track{
+    display: flex;
+    gap: 30px;
+}
+
+.e-rating-icon{
+  color: #974d69;
+}

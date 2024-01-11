@@ -27,7 +27,7 @@ const Header = () => {
                 <IoPersonOutline size={28} />
                 <div className='relative'>
                   <HiOutlineShoppingBag size={28} />
-                  <div className='w-4 h-4 flex justify-center items-center text-[12px] rounded-[50%] bg-pink-300 absolute -right-1 -bottom-1' >0</div>
+                  <div className='w-4 h-4 flex justify-center items-center text-[12px] rounded-[50%] bg-red-200 absolute -right-1 -bottom-1' >0</div>
                 </div>
                </div>
             </div>
