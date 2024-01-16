@@ -16,7 +16,7 @@ const Footer = () => {
                 {item.title}
               </p>
             ))}
-            <div className="gap-2 flex mt-[70px]">
+            <div className="gap-2 flex mt-[70px] mb-6">
               <FaInstagram size={19} />
               <FaFacebookF size={19} />
               <FaTiktok size={19} />
